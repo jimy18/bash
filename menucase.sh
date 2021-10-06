@@ -19,6 +19,9 @@ case $opcion in
 	5)
 		echo "Consome de pollo, arroz, sushi"
 	;;
+	6)
+		echo "papas fritas"
+	;;
 	*)
 		echo "No esta la opcion indicada"
 	;;
